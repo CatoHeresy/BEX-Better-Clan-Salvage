@@ -1,4 +1,4 @@
-# BEX Better Clans Salvage
+# BEX Better Clan Salvage
 
 A simple set of replacement contract files for Battletech Extended Tactics 2.0+
 
