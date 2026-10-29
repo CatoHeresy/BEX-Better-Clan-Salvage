@@ -13,7 +13,7 @@
     "goodFaithStatementOverride" : "",
     "shortDescription" : "We've finally tracked down the {TEAM_TAR.FactionDef.Name} villains responsible for a deadly attack on one of our facilities. It's only a single star, but they are using that far superior Clan equipment, very dangerous. That's why we're turning to you; we simply don't have the forces available to reach them before they strike again.",
     "longDescription" : "Nothing is ever that straightforward, Commander. If I know one thing, don't underestimate these clanners.",
-    "salvagePotential" : 24,
+    "salvagePotential" : 18,
     "requirementList" : [
         {
             "Scope" : "StarSystem",

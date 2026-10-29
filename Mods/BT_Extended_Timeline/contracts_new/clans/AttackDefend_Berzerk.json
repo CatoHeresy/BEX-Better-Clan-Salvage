@@ -13,7 +13,7 @@
     "goodFaithStatementOverride" : null,
     "shortDescription" : "Commander, we have forces poised to seize a {TEAM_TAR.FactionDef.ShortName} prison facility where a large number of {TEAM_EMP.FactionDef.Demonym} personnel are being held prisoner. However, the facility is protected by a nearby military base, and as soon as we seize the prison, they'll move against it, and reduce those buildings to rubble before they let us extract those people. We'll be moving our own 'Mechs and Leopards in as quickly as we can but before we can land them and extract the personnel, we need you to pacify that military base.",
     "longDescription" : "They have been frank with us, this is a Hail Mary pass and our Employer doesn't actually expect us to be able to succeed. I like challenges but I'm not sure we could afford the losses.",
-    "salvagePotential" : 32,
+    "salvagePotential" : 28,
     "requirementList" : [
         {
             "Scope" : "StarSystem",

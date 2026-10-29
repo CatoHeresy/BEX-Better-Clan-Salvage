@@ -13,7 +13,7 @@
     "goodFaithStatementOverride" : null,
     "shortDescription" : "A recon unit of ours has gone quite after informing us of activity consisting of two stars of 'Mechs on {TGT_SYSTEM.Name}. Your task is to assault and dislodge the {TEAM_TAR.FactionDef.Name} force. We want you to send a message: Your occupation of {TGT_SYSTEM.name} wont be without cost. Leave none standing.",
     "longDescription" : "Buckle up, Commander. Two heavily-armed stars? This is going to be as tough as it gets.",
-    "salvagePotential" : 24,
+    "salvagePotential" : 18,
     "requirementList" : [
         {
             "Scope" : "StarSystem",

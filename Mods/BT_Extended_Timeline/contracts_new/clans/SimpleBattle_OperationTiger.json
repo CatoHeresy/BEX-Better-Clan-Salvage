@@ -13,7 +13,7 @@
     "goodFaithStatementOverride" : null,
     "shortDescription" : "Our intelligence confirms there is a star of {TEAM_TAR.FactionDef.Name} military units operating on {TGT_SYSTEM.name}. {TEAM_EMP.FactionDef.Demonym} operations in nearby systems are at risk as long as this star is allowed to move unimpeded. Hunt down the enemy star and eliminate it.",
     "longDescription" : "A straight forward battle, against a nebulous enemy, Commander. Let's be well prepared.",
-    "salvagePotential" : 16,
+    "salvagePotential" : 12,
     "requirementList" : [
         {
             "Scope" : "StarSystem",

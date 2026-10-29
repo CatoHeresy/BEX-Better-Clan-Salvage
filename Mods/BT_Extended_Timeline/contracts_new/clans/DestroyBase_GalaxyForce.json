@@ -13,7 +13,7 @@
     "goodFaithStatementOverride" : null,
     "shortDescription" : "{TEAM_TAR.FactionDef.Name} forces are using a facility on {TGT_SYSTEM.Name} as a base of operations for terrorizing nearby settlements. The {TEAM_EMP.FactionDef.ShortName} command do not currently have the resources to assault the base, given how extensively they've entrenched. We need you to destroy the base so that they can no longer use it as a staging area for their heinous acts.",
     "longDescription" : "If they don't have the forces to deal with this themselves we should be prepared for a tough fight, Commander.",
-    "salvagePotential" : 16,
+    "salvagePotential" : 12,
     "requirementList" : [
         {
             "Scope" : "StarSystem",

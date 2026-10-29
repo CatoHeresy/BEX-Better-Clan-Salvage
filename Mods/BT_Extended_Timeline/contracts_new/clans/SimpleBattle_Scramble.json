@@ -13,7 +13,7 @@
     "goodFaithStatementOverride" : null,
     "shortDescription" : "Commander, we are making grounds dislodging the clanners on {TGT_SYSTEM.Name}. We could use some assistance, satellite surveillance has caught some recent {TEAM_TAR.FactionDef.Name} reinforcements. Eliminate the {TEAM_TAR.FactionDef.Demonym} units and you will be compensated.",
     "longDescription" : "This should be a straight forward battle scenario, but we can't be too prepared going up against this superior technology.",
-    "salvagePotential" : 16,
+    "salvagePotential" : 12,
     "requirementList" : [
         {
             "Scope" : "StarSystem",

@@ -13,7 +13,7 @@
     "goodFaithStatementOverride" : "",
     "shortDescription" : "After a recent engagement, {TEAM_EMP.FactionDef.Demonym} forces have captured a {TEAM_TAR.FactionDef.Name} stronghold. This has left the bulk of the {TEAM_TAR.FactionDef.ShortName} forces in the field, with nowhere to withdraw to. We'd like you to engage those forces and destroy them completely. The goal is to break their ability to take the field against us for the forseeable future; that means none of their units should survive.",
     "longDescription" : "When you win against these guys you take the win and go to the bank, doubling down like this sounds crazy. This could be a lot of fighting, be prepared.",
-    "salvagePotential" : 24,
+    "salvagePotential" : 18,
     "requirementList" : [
         {
             "Scope" : "StarSystem",

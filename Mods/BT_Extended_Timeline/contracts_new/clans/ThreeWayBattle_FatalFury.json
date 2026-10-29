@@ -13,7 +13,7 @@
     "goodFaithStatementOverride" : "",
     "shortDescription" : "Commander, we are planning a joint operation to hit a key enemy target. To say this target's destruction is important to us is an understatement, it's critical that they succeed. We'd like you to provide some additional firepower to ensure that both lances clear the drop zone and evac intact. We're expecting major enemy resistance so plan for a heavy drop.",
     "longDescription" : "The intel suggests extreme resistance, Commander. We will need to bring the best Yang has ready for us.",
-    "salvagePotential" : 24,
+    "salvagePotential" : 18,
     "requirementList" : [
         {
             "Scope" : "StarSystem",

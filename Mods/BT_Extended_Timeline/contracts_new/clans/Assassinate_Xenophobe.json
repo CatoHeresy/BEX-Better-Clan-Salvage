@@ -13,7 +13,7 @@
     "goodFaithStatementOverride" : null,
     "shortDescription" : "These clan dogs have taken {TGT_SYSTEM.name} despite our best efforts. {TEAM_EMP.FactionDef.Demonym} analysts' have identified a {TEAM_TAR.FactionDef.Name} Mechwarrior who has single handedly killed scores of our own. If we could have this clanner's head on a stick, as it were, company morale would really get a boost. Turn this invader scum to slag.",
     "longDescription" : "Targeting a single one of these clanners may feel easier, but the rest wont stand around watching.",
-    "salvagePotential" : 16,
+    "salvagePotential" : 12,
     "requirementList" : [
         {
             "Scope" : "StarSystem",

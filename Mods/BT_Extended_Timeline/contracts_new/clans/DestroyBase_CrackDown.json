@@ -13,7 +13,7 @@
     "goodFaithStatementOverride" : null,
     "shortDescription" : "The {TEAM_TAR.FactionDef.Name} facility on {TGT_SYSTEM.name} seems to be central to {TEAM_TAR.FactionDef.ShortName} activity in the area. Our efforts to dislodge the enemy from this position have failed, so we are now turning to a mercenary solution. The facility must be destroyed.",
     "longDescription" : "We should expect heavy resistance from a far superior force. {TEAM_EMP.FactionDef.Name} are using mercs because they expect losses.",
-    "salvagePotential" : 16,
+    "salvagePotential" : 12,
     "requirementList" : [
         {
             "Scope" : "StarSystem",

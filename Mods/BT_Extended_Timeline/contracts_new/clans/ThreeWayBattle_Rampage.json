@@ -13,7 +13,7 @@
     "goodFaithStatementOverride" : "",
     "shortDescription" : "We have a developing situation, Commander, and we need your help to resolve it. We have been tracking a 2 star {TEAM_TAR.FactionDef.Name} force, and they're now moving in the open towards a supply depot we had hoped they were not aware of. We have lost track of the second star but still have eyes on the first. We would like you to take out the star and the inevitable reinforcement star before they come across what we wish to remain secret.",
     "longDescription" : "I guess being prewarned about the trap is a bonus. No reason to underestimate the opposition though.",
-    "salvagePotential" : 24,
+    "salvagePotential" : 18,
     "requirementList" : [
         {
             "Scope" : "StarSystem",

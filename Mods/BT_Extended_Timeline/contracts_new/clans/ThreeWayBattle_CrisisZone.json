@@ -13,7 +13,7 @@
     "goodFaithStatementOverride" : "",
     "shortDescription" : "We've come across a target of opportunity that we'd like you to take advantage of. There's a {TEAM_TAR.FactionDef.Name} star conducting a long-range patrol, and it's isolated from its supporting forces. If you strike quickly, it should be possible to destroy the star before the {TEAM_TAR.FactionDef.ShortName} forces can order reinforcements into the area.",
     "longDescription" : "Pay us enough for the contract but explain there 'may' be more to deal with, we've been here before.",
-    "salvagePotential" : 24,
+    "salvagePotential" : 18,
     "requirementList" : [
         {
             "Scope" : "StarSystem",

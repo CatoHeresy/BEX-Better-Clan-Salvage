@@ -13,7 +13,7 @@
     "goodFaithStatementOverride" : null,
     "shortDescription" : "We require a small but overwhelming military strike to infiltrate {TEAM_TAR.FactionDef.Name} territory and disable their communications facility. As prelude to restoration actions elsewhere in {TGT_SYSTEM.name}, it's imperative that the {TEAM_TAR.FactionDef.ShortName} network goes offline, to remove their ability to coordinate a response.",
     "longDescription" : "A standard destroy imobile objects mission, but against a far superior enemy. Over prepare against these clans or we will pay for it.",
-    "salvagePotential" : 16,
+    "salvagePotential" : 12,
     "requirementList" : [
         {
             "Scope" : "StarSystem",

@@ -13,7 +13,7 @@
     "goodFaithStatementOverride" : null,
     "shortDescription" : "We have a situation, a base captured by {TEAM_TAR.FactionDef.Name} has sensitive information stored there. That {TEAM_TAR.FactionDef.ShortName} forces aren't aware of what they are sitting on is a small miracle. Thier occupation is making certain people nervous. Therefore, we need you to level that facility before we are made to regret some poor evacuation protocols.",
     "longDescription" : "The contract does not specify any retrieval, Commander. We are to bring the base down and destroy the sensitive data with it.",
-    "salvagePotential" : 16,
+    "salvagePotential" : 12,
     "requirementList" : [
         {
             "Scope" : "StarSystem",

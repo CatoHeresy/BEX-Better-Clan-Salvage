@@ -13,7 +13,7 @@
     "goodFaithStatementOverride" : "",
     "shortDescription" : "Our intelligence confirms a star of {TEAM_TAR.FactionDef.Name} military units are patrolling on {TGT_SYSTEM.name}. {TEAM_EMP.FactionDef.Demonym} command are looking for targets of opportunity and this one just presented itself. Hunt down the enemy star and eliminate it.",
     "longDescription" : "This is a straightforward battle, Commander, but we should be over prepared. Taking out a Clan star should never be underestimated.",
-    "salvagePotential" : 24,
+    "salvagePotential" : 18,
     "requirementList" : [
         {
             "Scope" : "StarSystem",

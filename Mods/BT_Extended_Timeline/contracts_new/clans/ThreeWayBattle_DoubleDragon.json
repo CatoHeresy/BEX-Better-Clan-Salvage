@@ -13,7 +13,7 @@
     "goodFaithStatementOverride" : "",
     "shortDescription" : "We're tracking {TEAM_TAR.FactionDef.Name} units engaged in some kind of combat ritual. This is an ideal time to strike, as we might catch them with their underwear around their ankles. It isn't clear who the other party in the exercises is, but whoever it is, they're not friendly either, so we need you to eliminate them as well.",
     "longDescription" : "Who knows what this ritual thing they have going on is, we have no way of knowing if they are going to be damaged when we engage.",
-    "salvagePotential" : 24,
+    "salvagePotential" : 18,
     "requirementList" : [
         {
             "Scope" : "StarSystem",

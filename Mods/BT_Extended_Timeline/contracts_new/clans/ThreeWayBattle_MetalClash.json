@@ -13,7 +13,7 @@
     "goodFaithStatementOverride" : "",
     "shortDescription" : "Commander, we've got a priority target for you. An elite {TEAM_TAR.FactionDef.Name} star has eliminated our forces but we have been tracking them since, they are out in the open and without any local support. What's more, they were damaged from a previous battle. This is an opportunity for us to severely weaken opposition forces on this planet, but we have no forces in range to make the strike. We need you to engage and destroy this star.",
     "longDescription" : "I don't feel good about how little intelligence we have considering how long they have been tracking the enemy, Commander. Be careful with this one.",
-    "salvagePotential" : 24,
+    "salvagePotential" : 18,
     "requirementList" : [
         {
             "Scope" : "StarSystem",

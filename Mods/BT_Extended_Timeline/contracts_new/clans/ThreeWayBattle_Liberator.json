@@ -13,7 +13,7 @@
     "goodFaithStatementOverride" : "",
     "shortDescription" : "Commander, we've been tracking a {TEAM_TAR.FactionDef.Name} star patrolling a contested area on the planet's surface. A few hours ago, our sensors detected another force, of unknown allegiance, on an agressive intercept course. A fight between the two forces is an opportunity we shouldn't miss. Eliminate the {TEAM_TAR.FactionDef.ShortName} star, and the unknown ambushers as well. Dead men tell no tales.",
     "longDescription" : "I mentioned to Yang about the possiblity of us acting carrion on a clan battlefield and his reaction made me queasy. Opportunity or not we are coming up against the bigger boys.",
-    "salvagePotential" : 20,
+    "salvagePotential" : 18,
     "requirementList" : [
         {
             "Scope" : "StarSystem",

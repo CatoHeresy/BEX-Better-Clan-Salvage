@@ -13,7 +13,7 @@
     "goodFaithStatementOverride" : null,
     "shortDescription" : "A star of {TEAM_TAR.FactionDef.Demonym} BattleMechs has been rampaging on {TGT_SYSTEM.name}. They've been razing population centers, burning fields and refineries, looting storage facilities. We can't identify the mechs at all. We won't lie to you, the difficulty advertised for this contract is not accurate based on what we have seen so far, but these are mechs never seen before so we can offer you salvage that could be invaluable. We need you to find them and destroy them - no escape, and no prisoners.",
     "longDescription" : "Commander the difficulty of the contracts against these clans is way higher than advertised, we need to be overly prepared.",
-    "salvagePotential" : 16,
+    "salvagePotential" : 12,
     "requirementList" : [
         {
             "Scope" : "StarSystem",

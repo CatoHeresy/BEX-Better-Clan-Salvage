@@ -13,7 +13,7 @@
     "goodFaithStatementOverride" : "",
     "shortDescription" : "We have a developing situation, Commander. A significant {TEAM_TAR.FactionDef.Name} force has dropped onto the planet, and are currently moving towards {TEAM_EMP.FactionDef.ShortName} sympathetic rebels. We want to show some support. We need you to intercept this force and destroy them. To ensure this mission goes smoothly, we'll be sending a lance of our own along on the mission.",
     "longDescription" : "I'm not sure I like the idea of playing babysitter to a bunch of regulars, Commander, but I suspect we will need the help.",
-    "salvagePotential" : 24,
+    "salvagePotential" : 18,
     "requirementList" : [
         {
             "Scope" : "StarSystem",

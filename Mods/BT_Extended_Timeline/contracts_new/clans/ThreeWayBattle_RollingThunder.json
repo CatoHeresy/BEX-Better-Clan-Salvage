@@ -13,7 +13,7 @@
     "goodFaithStatementOverride" : null,
     "shortDescription" : "We have an opportunity for willing Mercenaries, Commander. A {TEAM_TAR.FactionDef.Name} force is the target of our mission but we realise that the target is beyond the capability of the force we have available. We need you to be the backup for {TEAM_EMP.FactionDef.Demonym} forces to make a start to further operations. We expect significant opposition, which is where you come in.",
     "longDescription" : "I could say something about doing our part, but the c-bills should speak for themselves.",
-    "salvagePotential" : 24,
+    "salvagePotential" : 18,
     "requirementList" : [
         {
             "Scope" : "StarSystem",

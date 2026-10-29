@@ -13,7 +13,7 @@
     "goodFaithStatementOverride" : null,
     "shortDescription" : "A {TEAM_EMP.FactionDef.Demonym} lance were just eliminated by a {TEAM_TAR.FactionDef.Name} star but we made them pay dearly, the star was reduced to 1 man. The target is still alone on {TGT_SYSTEM.Name}. If you would like the opportunity, we were planning to finish the job in respect of our fallen. Finish the job.",
     "longDescription" : "Intel suggests the target is trying to rendezvous with other forces. This sounds like an extremely tough fight. The reward is tempting but at what cost.",
-    "salvagePotential" : 24,
+    "salvagePotential" : 18,
     "requirementList" : [
         {
             "Scope" : "StarSystem",

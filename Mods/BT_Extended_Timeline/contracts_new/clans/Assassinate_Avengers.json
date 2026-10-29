@@ -13,7 +13,7 @@
     "goodFaithStatementOverride" : null,
     "shortDescription" : "Commander, your outfit is needed for this Op. A {TEAM_TAR.FactionDef.Name} warrior has racked up an incredible kill count, one of the fallen was a family member of a {TEAM_EMP.FactionDef.Demonym} noble and she is paying well to see the death avenged. If you're quick, and aggressive, you may be able to complete the task with little cost.",
     "longDescription" : "I like the idea of a hit and run on a single target but we don't have speed on our side.",
-    "salvagePotential" : 16,
+    "salvagePotential" : 12,
     "requirementList" : [
         {
             "Scope" : "StarSystem",

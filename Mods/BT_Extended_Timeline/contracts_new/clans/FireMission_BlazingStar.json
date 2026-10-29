@@ -13,7 +13,7 @@
     "goodFaithStatementOverride" : null,
     "shortDescription" : "There is a {TEAM_TAR.FactionDef.Name} forward operating base set up in this region. We have the equipment to level it, however our recon capability has been diminshed. We need you to take a team and attack the installation. Place beacons for our Artillery to target, and exfiltrate while our guns destroy the base.",
     "longDescription" : "They aren't offering much for this contract Commander and the {TEAM_TAR.FactionDef.Demonym} forces are way beyond what we normally deal with in the comfortable Inner Sphere.",
-    "salvagePotential" : 16,
+    "salvagePotential" : 12,
     "requirementList" : [
         {
             "Scope" : "StarSystem",
