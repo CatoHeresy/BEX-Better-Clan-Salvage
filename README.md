@@ -1,13 +1,20 @@
-# BEX Clans Full Salvage
+# BEX Better Clans Salvage
 
 A simple set of replacement contract files for Battletech Extended Tactics 2.0+
 
-This adjusts all Clan missions to provide vanilla salvage rates. 
+Clan contracts have always had a terrible 20% vanilla drop rate cap.
 
-Note: This will only affect new missions spawned going forwards. It will not adjust any missions that already exist.
+This adjusts all Clan contract files to drop salvage at 75% vanilla rate instead, reducing player grind.
 
-<img src="/Examples/old.png" width="380" height="65"/>
-<img src="/Examples/new.png" width="380" height="65"/>
+#### Note: This will only affect new missions spawned going forwards. It will not adjust any missions that already exist.
+
+Was:
+
+<img src="/Examples/Old.png" width="500" height="120"/>
+
+Now:
+
+<img src="/Examples/New.png" width="500" height="120"/>
 
 
 
