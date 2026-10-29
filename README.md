@@ -6,6 +6,10 @@ This adjusts all Clan missions to provide vanilla salvage rates.
 
 Note: This will only affect new missions spawned going forwards. It will not adjust any missions that already exist.
 
+<img src="/Examples/old.png" width="380" height="65"/>
+<img src="/Examples/new.png" width="380" height="65"/>
+
+
 
 ## Installation
 
